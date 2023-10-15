@@ -8,3 +8,4 @@ if user_roll==roll:
     print("Correct!! They Rolled "+str(roll))
 else:
      print("Incorrect!! They Rolled "+str(roll))
+     print("Hi")
